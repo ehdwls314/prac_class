@@ -5,5 +5,5 @@ hello everyone
 
 
 ## subtitle
-  -test1
-  -bullet2
+  - test1
+  - bullet2
