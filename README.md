@@ -1,8 +1,8 @@
-# prac_class
+# 통계학특강 class 자료
 
-hello everyone
+## w1 intro_seminar
 
-
+## w2 markdown
 
 ## subtitle
   - test1
